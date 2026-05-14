@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+Modern+and+Scalable+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
+ 
 ---
 
 # 💫 About Me:
